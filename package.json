@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/patrikduch/Simple-Nodejs-microservice/issues"
   },
-  "homepage": "https://github.com/patrikduch/Simple-Nodejs-microservice#readme"
+  "homepage": "https://github.com/patrikduch/Simple-Nodejs-microservice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
